@@ -1,6 +1,6 @@
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:6A5ACD&height=240&section=header&text=YOUR%20NAME&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%7C%20DevOps%20Engineer%20%7C%20Platform%20Engineering%20%7C%20SRE&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:6A5ACD&height=240&section=header&text=ROBERT%20DANIEL&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%7C%20DevOps%20Engineer%20%7C%20Platform%20Engineering%20%7C%20SRE&descAlignY=58"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Cloud+%26+DevOps+Engineer;Platform+Engineer+%7C+Multi-Cloud+Architect;Kubernetes+%7C+Terraform+%7C+CI%2FCD+Automation;Building+Scalable+Cloud+Platforms+%26+Developer+Tools" />
 
@@ -20,7 +20,7 @@ I enjoy solving complex architectural challenges, eliminating operational toil t
 - ☁️ Multi-Cloud Practitioner (**Azure | AWS | GCP**)
 - 📜 Certified in **[Microsoft Azure AWS SAA / CKA / AZ-104]**
 - 🛠 Building open-source developer tools and cloud automation modules
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **your-email@danielrobert9022@gmail.com**
 
 ---
 
@@ -92,14 +92,14 @@ I enjoy solving complex architectural challenges, eliminating operational toil t
 
 # 💼 Featured Projects
 
-### [Project-One-Title](https://github.com/your-username/project-one)
+### [Kidshield](https://github.com/Danny001coder/kidshield)
 > **[One-line hook or value proposition for your flagship project]**
 A 2-3 sentence overview describing the real-world problem solved, system architecture, how it handles scale, and why it matters to an engineering team.
 - **Tech Stack**: `Docker`, `Kubernetes`, `Terraform`, `Python`
 
 ---
 
-### [Project-Two-Title](https://github.com/your-username/project-two)
+### [Campus-gist](https://github.com/Danny001coder/Capus-Gist)
 > **[One-line hook or value proposition for your second project]**
 A 2-3 sentence overview describing the automation pipeline, infrastructure setup, or problem addressed.
 - **Tech Stack**: `GitHub Actions`, `AWS`, `Terraform`, `Bash`
